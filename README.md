@@ -5,4 +5,4 @@
 - Expiry validation
 
 ## Run
-python src/analyzer.py
+ssl_analyzer.py
